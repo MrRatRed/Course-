@@ -1,0 +1,50 @@
+C:\Users\Expert\source\repos\course\course\bin\Debug\net7.0-windows\course.exe
+C:\Users\Expert\source\repos\course\course\bin\Debug\net7.0-windows\course.deps.json
+C:\Users\Expert\source\repos\course\course\bin\Debug\net7.0-windows\course.runtimeconfig.json
+C:\Users\Expert\source\repos\course\course\bin\Debug\net7.0-windows\course.dll
+C:\Users\Expert\source\repos\course\course\bin\Debug\net7.0-windows\course.pdb
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.Ability.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.Archive.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.Form1.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.patients.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.places.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.Properties.Resources.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.Services.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.treatment.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.csproj.GenerateResource.cache
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.AssemblyInfoInputs.cache
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.AssemblyInfo.cs
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.csproj.CoreCompileInputs.cache
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.dll
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\refint\course.dll
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.pdb
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.genruntimeconfig.cache
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\ref\course.dll
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.list.resources
+C:\Users\Expert\source\repos\course\course\obj\Debug\net7.0-windows\course.order.resources
+C:\Users\Expert\Desktop\course w\course\bin\Debug\net7.0-windows\course.exe
+C:\Users\Expert\Desktop\course w\course\bin\Debug\net7.0-windows\course.deps.json
+C:\Users\Expert\Desktop\course w\course\bin\Debug\net7.0-windows\course.runtimeconfig.json
+C:\Users\Expert\Desktop\course w\course\bin\Debug\net7.0-windows\course.dll
+C:\Users\Expert\Desktop\course w\course\bin\Debug\net7.0-windows\course.pdb
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.Ability.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.Archive.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.Form1.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.list.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.order.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.patients.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.places.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.Properties.Resources.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.Services.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.treatment.resources
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.csproj.GenerateResource.cache
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.AssemblyInfoInputs.cache
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.AssemblyInfo.cs
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.csproj.CoreCompileInputs.cache
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.dll
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\refint\course.dll
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.pdb
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\course.genruntimeconfig.cache
+C:\Users\Expert\Desktop\course w\course\obj\Debug\net7.0-windows\ref\course.dll
